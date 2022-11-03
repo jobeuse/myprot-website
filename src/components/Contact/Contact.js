@@ -62,6 +62,9 @@ export default function Projects (){
                     </div> 
                 </div> 
             </div>
+             <div className="col-lg-12  mt-5 text-muted text-end">
+              &copy; Iradukunda Yobu
+            </div>
         </section>
             )
     }
