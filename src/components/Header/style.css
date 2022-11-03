@@ -1,0 +1,38 @@
+#header{
+	min-height:80vh;
+	background: ;
+	justify-content: center;
+	display: flex;	
+}
+
+#header02{ 
+	min-height: 10vh;
+}
+
+
+#header03 .mylink{
+	background: #FB9129; 
+	color: white;
+  	transition-timing-function: ease-out; 
+  	transition: .4s;
+	font-weight:normal;
+}
+
+#header03 .mylink:hover{
+	background: white;
+	border: 1px solid;
+	color: #0A0E27;
+}
+#header03 .mylink2{
+	background-color:#0A0E27; 
+	color: white;
+  	transition-timing-function: ease-out; 
+  	transition: .4s;
+	font-weight:normal;
+}
+
+#header03 .mylink2:hover{
+	background: white;
+	border: 1px solid;
+	color: #0A0E27;	
+}
