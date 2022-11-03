@@ -1,0 +1,18 @@
+.bg-my{
+	background: rgba(251,145,41,0.2); 
+	border: 1px solid rgba(251,145,41,1);
+}
+
+.bg-border{
+	background: rgba(251,145,41,0.01); 
+	border: 1px solid rgba(251,145,41,1);
+}
+.mybox{
+	cursor: pointer;
+	transition-timing-function: ease-out; 
+  	transition: .4s;
+}
+.mybox:hover{
+	transform: scale(1.1);
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

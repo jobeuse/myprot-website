@@ -53,3 +53,46 @@ p{
   stroke: #FB9129; ;
   stroke-width: 1;
 }
+
+.icons{
+  border: 1px solid;
+  bottom: 30px;
+}
+.iconspecial{
+  width:450px;
+  height:450px
+}
+
+
+@media only screen and (max-width: 1387px) {
+  #header02{
+    display: none;
+  }
+
+  h1{
+    font-size: 40px;
+    line-height: 52px;
+    color: #0f0d19;
+    font-weight: 700;
+    font-weight: bold;
+  }
+}
+
+@media only screen and (min-width: 1387px) {
+  #header002{
+    display: none;
+  }
+}
+
+
+hr{
+  color:  #FB9129;
+  border: 2px solid  #FB9129;
+  width: 60%;
+}
+
+@media only screen and (max-width: 948px) {
+  .imgcontent{
+    display: none;
+  }
+}

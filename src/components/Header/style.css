@@ -1,8 +1,8 @@
 #header{
-	min-height:80vh;
-	background: ;
+	min-height:70vh; 
 	justify-content: center;
 	display: flex;	
+	padding: 0;
 }
 
 #header02{ 
@@ -11,7 +11,7 @@
 
 
 #header03 .mylink{
-	background: #FB9129; 
+	background: rgba(251,145,41,0.8); 
 	color: white;
   	transition-timing-function: ease-out; 
   	transition: .4s;
