@@ -13,6 +13,23 @@ h1{
   font-weight: bold;
 }
 
+.Logo h4{
+  font-size:30px;
+  font-weight: 700;
+}
+
+.Logo .span1{
+  background-color:#0A0E27;
+  color: white;
+}
+
+.Logo .span2{
+  background: #FB9129;
+  color: white;
+}
+
+
+
 p{
   font-weight: 400;
   font-style: normal;
@@ -21,13 +38,18 @@ p{
   color:  #0f0d19;
 }
 
+.svg-icon {
+  width: 2em;
+  height: 2em;
+}
 
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #FB9129; ;
+}
 
-/*f0628d
-
-
-7e4ea1
-
-
-
-eb4593*/
+.svg-icon circle {
+  stroke: #FB9129; ;
+  stroke-width: 1;
+}
