@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 export default function Projects (){
 
     return (
-        <section  id="Projects" className="col-lg-12 mt-5 pt-5 skills">
+        <section  id="Skills" className="col-lg-10 mt-5 pt-5 skills">
             <div className="row justify-content-start">
                 <div className="col-lg-12">
                     <div className="row justify-content-start">

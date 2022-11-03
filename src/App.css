@@ -5,6 +5,18 @@ body{
   font-family:poppins, sans-serif;
 }
 
+#header01{
+  background: white;
+}
+
+a{
+  color: #0A0E27;
+}
+
+a:hover{
+  color: rgba(251,145,41,1);
+}
+
 h1{
   font-size: 60px;
   line-height: 72px;

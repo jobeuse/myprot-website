@@ -11,7 +11,7 @@ import p5 from './Screenshot (67).png';
 export default function Projects (){
 
     return (
-        <section  id="Projects" className="col-lg-12 mt-5 pt-5">
+        <section  id="Projects" className="col-lg-10 mt-5 pt-5">
             <div className="row justify-content-start">
                 <div className="col-lg-12 text-end">
                     <div className="row justify-content-end">
