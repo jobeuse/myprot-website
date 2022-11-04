@@ -17,7 +17,7 @@ export default function Projects (){
                           <div className="row justify-content-end Contact">
                               <div className="col-lg-9 col-md-12">
                                 <div className="row justify-content-center">
-                                   <div className="col-lg-6"> 
+                                   <div className="col-lg-10"> 
                                       <h3>Personal information</h3>
                                       <form className="row">
                                         <div className="col-lg-12 mt-4 mb-5">
@@ -42,7 +42,7 @@ export default function Projects (){
                                             </a>
                                         </div> 
 
-                                        <div className="col-lg-6 col-md-12 mb-5">
+                                        <div className="col-lg-6 col-md-6 mb-5">
                                            
                                               <span>
                                                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-geo" viewBox="0 0 16 16">
