@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="container">
       <div className="row justify-content-center">
-        <div className="col-lg-12 p-3 sticky-top shadow-sm" id="header01">
+        <div className="col-lg-12 p-3 sticky-top" id="header01">
           <div className="d-flex flex-row">
               <div className="flex-fill Logo">
                   <h4> <span className="span1">R</span><span className="span2">Y</span> </h4> 
