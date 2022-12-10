@@ -39,7 +39,7 @@ export default function Header (){
                                         <div className="col-lg-12 " id="header03">
                                             <div className="row gap-2 justify-content-start">
                                                 <div className="col-lg-5 col-md-5">
-                                                    <a className="mylink rounded btn" target="__blank" href="https://docs.google.com/document/d/1bdT9rovpozXALigFuT3Kr6ZlgkPDTywPiIDNY3R_Na8/edit?usp=sharing">View my CV</a>
+                                                    <a className="mylink rounded btn" target="__blank" href="https://docs.google.com/document/d/1GxI8yr4h_8vvvtFoLMdyGKfJoQ70-CkA0UkRvXWQnSY/edit?usp=sharing">View my CV</a>
                                                 </div>
                                                 <div className="col-lg-5  col-md-5">
                                                     <a className="mylink2 rounded btn" href="https://wa.me/250780809031" target="__blank">Send me message</a>
